@@ -29,7 +29,7 @@ public class StringHelperTest {
    }
   
    
-   @Ignore
+   
    @Test
    public void truncateAInFirst2Positions2() {
 	   StringHelper obj=new StringHelper();
