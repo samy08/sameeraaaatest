@@ -19,7 +19,7 @@ public class StringHelperTest {
 	   public void beforetruncateAInFirst2Positions2() {
 		   System.out.println("hello imm new to junit");
 	   }
-   @Ignore
+   
    @Test
    public void truncateAInFirst2Positions() {
 	   StringHelper obj=new StringHelper();
@@ -29,7 +29,7 @@ public class StringHelperTest {
    }
   
    
-   
+   @Ignore
    @Test
    public void truncateAInFirst2Positions2() {
 	   StringHelper obj=new StringHelper();
