@@ -11,7 +11,7 @@ public static void main(String[] args) {
 		
 		
 		if(n%i==0) {
-			if(i==8 && i==n)
+			if(i==7 && i==n)
 			c++;
 			System.out.println(c);
 		}
